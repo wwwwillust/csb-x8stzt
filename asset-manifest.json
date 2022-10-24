@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wwwwillust.github.io/csb-x8stzt/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://wwwwillust.github.io/csb-x8stzt/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://wwwwillust.github.io/csb-x8stzt/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://wwwwillust.github.io/csb-x8stzt/static/js/runtime-main.f4de52fc.js",
+    "runtime-main.js.map": "https://wwwwillust.github.io/csb-x8stzt/static/js/runtime-main.f4de52fc.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://wwwwillust.github.io/csb-x8stzt/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://wwwwillust.github.io/csb-x8stzt/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://wwwwillust.github.io/csb-x8stzt/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://wwwwillust.github.io/csb-x8stzt/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://wwwwillust.github.io/csb-x8stzt/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4de52fc.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
